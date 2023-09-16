@@ -6,6 +6,10 @@ Highly motivated student dedicated to enhancing my expertise in computer softwar
 collaborative team player, ready to support others, while also embracing challenges as a proactive self-starter. While
 committed to continuous learning and growth, my goal is to leverage my expertise for a meaningful global impact.
 
+Email: tc72in@gmail.com
+
+Tel: +65 8720 1195
+
 ### Education
 
 Diploma in Computer Engineering, Temasek Polytechnic (04/2022 – present)
@@ -31,3 +35,15 @@ Soft
 - Able to think critically and analytically to solve problems and make decisions, ensuring tasks are
 completed with a high degree of accuracy.
 - Adept at establishing reasonable time frames and deadlines to keep track of progress.
+
+### Certificates & Awards
+
+- ENGenius Award (Ongoing)
+- WorldSkills ASEAN 2023 Certificate
+
+### References
+Mr. Kumbar Shankarappa | Diploma in Computer Engineering, Temasek Polytechnic
+
+Email: kumbar@tp.edu.sg
+
+Tel: +65 6780 5464
