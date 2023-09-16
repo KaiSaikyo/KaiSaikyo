@@ -18,3 +18,16 @@ Relevant Coursework:
 
 ### Skills
 
+Technical
+- Experienced in Python, with importing csv files and using other libraries such as NumPy and Matplotlib for
+better data visualization. Java, developing a system that implements CRUD and user management following
+the MVC pattern. C, implementing embedded systems with a focus on design, development and integration of
+hardware and software.
+- Familiar with using Tableau, creating interactive dashboards that can be used to visualize data easily and
+generate further key insights.
+
+Soft
+- Skilled in collaborative teamwork, with strong active listening and interpersonal communication skills.
+- Able to think critically and analytically to solve problems and make decisions, ensuring tasks are
+completed with a high degree of accuracy.
+- Adept at establishing reasonable time frames and deadlines to keep track of progress.
