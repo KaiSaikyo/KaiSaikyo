@@ -6,9 +6,6 @@ Highly motivated student dedicated to enhancing my expertise in computer softwar
 collaborative team player, ready to support others, while also embracing challenges as a proactive self-starter. While
 committed to continuous learning and growth, my goal is to leverage my expertise for a meaningful global impact.
 
-Email: tc72in@gmail.com
-
-Tel: +65 8720 1195
 
 ### Education
 
@@ -43,7 +40,3 @@ completed with a high degree of accuracy.
 
 ### References
 Mr. Kumbar Shankarappa | Diploma in Computer Engineering, Temasek Polytechnic
-
-Email: kumbar@tp.edu.sg
-
-Tel: +65 6780 5464
